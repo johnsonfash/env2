@@ -1,0 +1,27 @@
+{
+  "PackageIdentifier": "johnsonfash.env2",
+  "PackageVersion": "1.0.0.0",
+  "PackageLocale": "en-US",
+  "ManifestVersion": 2,
+  "Dependencies": [
+    {
+      "PackageFamilyName": "Microsoft.DesktopAppInstaller_8wekyb3d8bbwe",
+      "MinVersion": "1.15.1003.0"
+    }
+  ],
+  "Monikers": [
+    {
+      "Identity": "johnsonfash.env2",
+      "Language": "en-US"
+    }
+  ],
+  "Resources": {
+    "Logo": "Assets\\Icon.png",
+    "Dependencies": []
+  },
+  "Capabilities": [
+    {
+      "Capability": "sharedUserCertificates"
+    }
+  ]
+}

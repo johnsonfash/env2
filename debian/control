@@ -1,0 +1,7 @@
+Package: env2
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: 
+Description: CLI tool for environment management.
